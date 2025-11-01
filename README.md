@@ -169,7 +169,3 @@ This project was built independently to demonstrate:
 
 ---
 
-## 👨‍💻 Author
-**Damián Chevalier**  
-📧 [YourEmail@example.com]  
-🌐 [https://github.com/yourusername](https://github.com/yourusername)
