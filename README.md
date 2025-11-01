@@ -1,4 +1,4 @@
-# CIS344-GroupProject[README.md](https://github.com/user-attachments/files/23283445/README.md)
+# CIS344-GroupProject
 # 🧰 Equipment Rental Management System
 *A PHP + MySQL web application for managing equipment rentals.*
 
